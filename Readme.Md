@@ -1,0 +1,1 @@
+to test in your local machine http://localhost:5000/generate_qr?url=<URL>
